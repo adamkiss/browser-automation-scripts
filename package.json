@@ -1,0 +1,13 @@
+{
+  "name": "browser-automation-scripts",
+  "version": "1.0.0",
+  "description": "Backup of puppeteer automation scripts I use",
+  "main": "index.js",
+  "repository": "https://github.com/adamkiss/browser-automation-scripts",
+  "author": "Adam Kiss <iamadamkiss+npm@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "puppeteer": "~0.13.0"
+  }
+}
